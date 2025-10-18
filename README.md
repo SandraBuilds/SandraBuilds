@@ -47,3 +47,6 @@ Every line of code I write is a step toward that vision — this GitHub is more 
 [![](https://visitcount.itsvg.in/api?id=SandraBuilds&icon=9&color=10)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🧠 My LeetCode Progress
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SandraBuilds?theme=dark&font=JetBrains%20Mono&ext=heatmap)](https://leetcode.com/SandraBuilds/)
