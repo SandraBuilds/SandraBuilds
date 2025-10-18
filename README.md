@@ -8,7 +8,7 @@ From the moment I discovered artificial intelligence, I knew I’d found my call
 
 💻 Software Engineer & Founder in the making — building products that merge innovation, intelligence, and real-world impact.
 
-🚀 Currently building the next big thing in tech:
+🚀 Currently building:
 
 🧠 RetailBrain – an AI-powered retail intelligence platform revolutionising how businesses understand markets and customers.
 
@@ -40,7 +40,7 @@ Every line of code I write is a step toward that vision — this GitHub is more 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SandraBuilds&theme=calm_pink&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ One Random Dev Quote A day To keep the Spark Aflame:
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
